@@ -1,0 +1,20 @@
+{
+    "name": "wilson-chan/senangpay-php",
+    "description": "SenangPay Payment Gateway",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wilson Chan",
+            "email": "hychan1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":
+        {
+            "SenangPay\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
