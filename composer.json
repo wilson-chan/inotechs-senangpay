@@ -1,5 +1,5 @@
 {
-    "name": "inotechs/senangpay-php",
+    "name": "inotechs/senangpay",
     "description": "SenangPay Payment Gateway",
     "type": "library",
     "license": "MIT",
